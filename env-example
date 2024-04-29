@@ -1,0 +1,15 @@
+# Flask credentials
+SECRET_KEY=
+
+# Flask settings
+FLASK_HOST=
+FLASK_PORT=
+FLASK_DEBUG=
+
+# Database settings
+DATABASE_URI=
+
+# Google auth credentials
+CLIENT_ID=
+CLIENT_SECRET=
+REDIRECT_URI=
